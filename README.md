@@ -19,6 +19,7 @@ Here's a breakdown of the major components and functionalities of the code:
 
 8. Visualization and Display: The code overlays text and lines on the frame to indicate the count of vehicles and their movement directions. The frame, along with the overlays, is displayed in a window using OpenCV's imshow function.
 
+<img width="348" alt="vehicleDetection github" src="https://github.com/rudraPratapMitra/Vehicle-Detection-Counting/assets/135310293/a7c25239-8a51-4bfc-b453-16fcf3c226f7">
 
 
 
